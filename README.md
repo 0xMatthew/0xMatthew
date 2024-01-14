@@ -1,4 +1,4 @@
-- Software Engineer
+- Site Reliability Engineer at Thomson Reuters
 - lifelong learner
 - optimist
 - tech nerd
